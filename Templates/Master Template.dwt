@@ -11,5 +11,16 @@
 </head>
 
 <body>
+[put MC logo here]
+<table >
+  <tr>
+    <td><a href="../index.html">Home Page</a></td>
+    <td><a href="../about-the-course.html">About This Course</a></td>
+    <td><a href="../class-directory.html">Class Directory</a></td>
+    <td><a href="../contact-us.html">Contact Us</a></td>
+    <td><a href="../project-guidelines.html">Project Guidelines</a></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="Main Content Area" -->[put content here]<!-- TemplateEndEditable -->
 </body>
 </html>
